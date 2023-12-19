@@ -1,4 +1,6 @@
-These are the codes for all the assignments in the Data Structures Lab
+# datastructures_lab-NITC
+Code of Data Structures Lab in S4
 <br>
-The problem statements for each assignment are also attached
+These are the codes for all the assignments in the data structures lab
 <br>
+The problem statements for each assignment are also attached 
